@@ -1,0 +1,14 @@
+torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+numpy==1.19.5
+ray==1.0.0
+gym==0.15.7
+atari-py==0.2.6
+cython==0.29.23
+kornia==0.5.10 #https://pypi.org/project/kornia/0.5.10/#history
+tensorboard==2.6.0 #https://pypi.org/project/tensorboard/#history
+tqdm==4.62.3
+opencv-python==4.5.3.56
+imageio
+protobuf==3.19.4
+packaging
+timm

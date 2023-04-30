@@ -1,0 +1,797 @@
+{
+    "AlienNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "AmidarNoFrameskip-v4": {
+        "total_action": 10,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "AssaultNoFrameskip-v4": {
+        "total_action": 7,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+        ]
+    },
+    "AsterixNoFrameskip-v4": {
+        "total_action": 9,
+        "action_id": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "BankHeistNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "BattleZoneNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "BoxingNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "BreakoutNoFrameskip-v4": {
+        "total_action": 4,
+        "action_id": [
+            0,
+            1,
+            3,
+            4
+        ]
+    },
+    "ChopperCommandNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "CrazyClimberNoFrameskip-v4": {
+        "total_action": 9,
+        "action_id": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "DemonAttackNoFrameskip-v4": {
+        "total_action": 6,
+        "action_id": [
+            0,
+            1,
+            3,
+            4,
+            11,
+            12
+        ]
+    },
+    "FreewayNoFrameskip-v4": {
+        "total_action": 3,
+        "action_id": [
+            0,
+            2,
+            5
+        ]
+    },
+    "FrostbiteNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "GopherNoFrameskip-v4": {
+        "total_action": 8,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+        ]
+    },
+    "HeroNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "JamesbondNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "KangarooNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "KrullNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "KungFuMasterNoFrameskip-v4": {
+        "total_action": 14,
+        "action_id": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "MsPacmanNoFrameskip-v4": {
+        "total_action": 9,
+        "action_id": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "PongNoFrameskip-v4": {
+        "total_action": 6,
+        "action_id": [
+            0,
+            1,
+            3,
+            4,
+            11,
+            12
+        ]
+    },
+    "PrivateEyeNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "QbertNoFrameskip-v4": {
+        "total_action": 6,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "RoadRunnerNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "SeaquestNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "UpNDownNoFrameskip-v4": {
+        "total_action": 6,
+        "action_id": [
+            0,
+            1,
+            2,
+            5,
+            10,
+            13
+        ]
+    },
+    "PhoenixNoFrameskip-v4": {
+        "total_action": 8,
+        "action_id": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            11,
+            12,
+            13
+        ]
+    },
+    "PooyanNoFrameskip-v4": {
+        "total_action": 6,
+        "action_id": [
+            0,
+            1,
+            2,
+            5,
+            10,
+            13
+        ]
+    },
+    "RiverraidNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "RobotankNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "TimePilotNoFrameskip-v4": {
+        "total_action": 10,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "VideoPinballNoFrameskip-v4": {
+        "total_action": 9,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12
+        ]
+    },
+    "WizardOfWorNoFrameskip-v4": {
+        "total_action": 10,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "YarsRevengeNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "ZaxxonNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "AtlantisNoFrameskip-v4": {
+        "total_action": 4,
+        "action_id": [
+            0,
+            1,
+            11,
+            12
+        ]
+    },
+    "BeamRiderNoFrameskip-v4": {
+        "total_action": 9,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            11,
+            12
+        ]
+    },
+    "CarnivalNoFrameskip-v4": {
+        "total_action": 6,
+        "action_id": [
+            0,
+            1,
+            3,
+            4,
+            11,
+            12
+        ]
+    },
+    "CentipedeNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "DoubleDunkNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "EnduroNoFrameskip-v4": {
+        "total_action": 9,
+        "action_id": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            8,
+            9,
+            11,
+            12
+        ]
+    },
+    "FishingDerbyNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "GravitarNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "IceHockeyNoFrameskip-v4": {
+        "total_action": 18,
+        "action_id": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "NameThisGameNoFrameskip-v4": {
+        "total_action": 6,
+        "action_id": [
+            0,
+            1,
+            3,
+            4,
+            11,
+            12
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*$py.class
+
+
+# Pycharm
+.idea/*
+
+# results dir
+/results
+/files
+core/profiles
+core/m_profiles
+*.o
+*.so
+/src/core/ctree/*
+baseline
+model_exp
+backup
+local
+tmp
+script/backup
+helper/backup
+
+# add .ipynb_checkpoints to .gitignore
+.ipynb_checkpoints
