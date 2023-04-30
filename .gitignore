@@ -14,7 +14,6 @@ core/profiles
 core/m_profiles
 *.o
 *.so
-/src/core/ctree/*
 baseline
 model_exp
 backup
